@@ -120,27 +120,12 @@ class KishoreR:
 
 ---
 
-## 🗺️ 18-Month Roadmap
-
-```
-2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026
-  │                                                             │
-  ├─ 🎓 NPTEL Gold Certifications                              │
-  ├─ 📄 First Research Publication                             │
-  ├─ 🏭 Industry Internship                                    │
-  ├─ 🏆 National-Level Competition Wins                        │
-  ├─ 💡 Patent Filing                                          │
-  └─ 📝 GATE Qualification ─────────────────────────────────▶  │
-```
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KishoreR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Gmail](https://img.shields.io/badge/Email-kishorer@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorer@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KishoreR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kishorer2k7)
+[![Gmail](https://img.shields.io/badge/Email-kishorer@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorerajaji65@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KishoreR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 </div>
