@@ -5,5 +5,5 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/KishoreR">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Deployable+AI+Solutions+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+Ideas+to+Production-Ready+Models+%F0%9F%9A%80;GATE+Aspirant+%7C+Researcher+%7C+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Deployable+AI+Solutions+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+Ideas+to+Production-Ready+Models+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
