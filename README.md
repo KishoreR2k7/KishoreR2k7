@@ -1,96 +1,156 @@
 <div align="center">
 
-# Hey, I'm Kishore 👋
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=KISHORE%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20ML%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descColor=a78bfa"/>
 
-**AI Engineer · B.Tech AI/DS · Building real-world AI systems**
+<!-- Typing animation -->
+<a href="https://github.com/KishoreR">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Deployable+AI+Solutions+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%7C+NLP;From+Ideas+to+Production-Ready+Models+%F0%9F%9A%80;GATE+Aspirant+%7C+Researcher+%7C+Builder" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<br/>
 
-</div>
-
----
-
-### About Me
-
-I'm an AI engineer passionate about building systems that **see**, **understand**, and **generate** — not just theoretically, but in production. Currently pursuing B.Tech in AI & Data Science, with hands-on experience across Computer Vision, OCR, and Generative AI.
-
-- 🔭 Working on **real-time Vision + GenAI projects**
-- 🧠 Deep interest in **multimodal AI** — bridging vision and language
-- ⚡ I love the challenge of making AI actually work, not just demo well
-
----
-
-### What I Work With
-
-**AI & ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-**GenAI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-
-**Tools & Infra**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### Core Domains
-
-```
-Computer Vision      →  Object detection, segmentation, real-time inference
-OCR Systems          →  Document extraction, layout analysis, post-correction
-Generative AI        →  RAG pipelines, LLM fine-tuning, multimodal apps
-MLOps                →  Model serving, API deployment, performance optimization
-```
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-![Kishore's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true)
+<!-- Profile Badges -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-49%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![CGPA](https://img.shields.io/badge/CGPA-7.7%2F10-a78bfa?style=for-the-badge&logo=academia&logoColor=white)]()
+[![AI Dev](https://img.shields.io/badge/AI-Developer-302b63?style=for-the-badge&logo=openai&logoColor=white)]()
 
 </div>
 
 ---
 
-### Featured Projects
+## 🧠 About Me
 
-| Project | What it does | Stack |
-|--------|--------------|-------|
-| 🔍 **[Project Name](#)** | Real-time OCR pipeline for document digitization | Python, OpenCV, Tesseract, FastAPI |
-| 🤖 **[Project Name](#)** | RAG-based document Q&A with multimodal support | LangChain, OpenAI, FAISS |
-| 👁️ **[Project Name](#)** | Vision system for [task] with live inference | YOLOv8, PyTorch, Streamlit |
-
-> Replace project names and links with your actual repos!
+```python
+class KishoreR:
+    role       = "AI Developer & Systems Engineer"
+    university = "Bannari Amman Institute of Technology"
+    degree     = "B.Tech – Artificial Intelligence & Data Science"
+    focus      = ["Machine Learning", "Deep Learning", "Computer Vision", "Full-Stack AI"]
+    mission    = "Building real-world AI that actually works in production"
+    
+    def currently(self):
+        return [
+            "📚 Preparing for GATE 2026",
+            "🏅 Pursuing NPTEL Gold Certifications",
+            "🔬 Writing research papers",
+            "🤝 Seeking industry internships",
+        ]
+    
+    def fun_fact(self):
+        return "I optimize models for hardware — because inference speed matters 🔥"
+```
 
 ---
 
-### Currently Exploring
+## 🛠️ Tech Stack
 
-- 🧩 Vision-Language Models (VLMs)
-- 📦 Efficient model deployment on edge devices
-- 🔗 Agentic AI workflows with tool use
+<div align="center">
+
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI / ML / DL
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+### 🌐 Full Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| 🎭 **Real-Time Face Attendance System** | Optimized CNN inference pipeline for automated attendance — deploy-ready with hardware-aware performance tuning | PyTorch · OpenCV · Flask · CUDA | ✅ Deployed |
+| ✍️ **Text Generation AI Model** | Transformer-based text generator trained from scratch using PyTorch — attention mechanisms, tokenizer, and custom training loop | PyTorch · Transformers · NLP | ✅ Complete |
+
+</div>
+
+> 💡 *More projects coming soon — currently building toward patents and research publication milestones.*
+
+---
+
+## 📜 Certifications & Achievements
+
+```
+🏅  NPTEL – Internet of Things (Completed)
+⚙️  NPTEL Gold Certifications (In Progress – 18-Month Roadmap)
+🧩  LeetCode – 49 Problems Solved
+🏆  Hackathon Participant – National & College Level Competitions
+🎓  GATE 2026 – Actively Preparing
+📄  Research Publication – In Progress
+💡  Patent Filing – Roadmap Active
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishoreR&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreR&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreR&theme=midnight-purple&hide_border=true&background=0f0c29" />
+</div>
+
+---
+
+## 🗺️ 18-Month Roadmap
+
+```
+2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2026
+  │                                                             │
+  ├─ 🎓 NPTEL Gold Certifications                              │
+  ├─ 📄 First Research Publication                             │
+  ├─ 🏭 Industry Internship                                    │
+  ├─ 🏆 National-Level Competition Wins                        │
+  ├─ 💡 Patent Filing                                          │
+  └─ 📝 GATE Qualification ─────────────────────────────────▶  │
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KishoreR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Gmail](https://img.shields.io/badge/Email-kishorer@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kishorer@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-KishoreR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"Build things that work. Learn from things that don't."*
+*"The best AI is the one that works reliably in the real world — not just in notebooks."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
