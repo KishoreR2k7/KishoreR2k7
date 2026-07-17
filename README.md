@@ -1,11 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kishore R</h1>
-<h3 align="center">AI Engineer | Building Generative AI, RAG & Agentic Systems</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/kishorer2k7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/KishoreR2k7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:kishorerajaji65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:1E90FF,100:00A67E&height=220&section=header&text=Kishore%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Systems&descAlignY=55&descSize=18" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Generative+AI+Systems;RAG+%7C+Agentic+AI+%7C+Knowledge+Graphs;Full-Stack+%2B+AI+%3D+Real+Products" />
+
+<p>
+  <a href="https://linkedin.com/in/kishorer2k7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
+  <a href="https://github.com/KishoreR2k7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:kishorerajaji65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
 </p>
+
+</div>
 
 ---
 
@@ -21,92 +26,124 @@
 
 ---
 
+<div align="center">
+
 ### 🧰 Tech Stack
+
+</div>
+
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c&perline=4" />
 
-**AI / ML & GenAI**
+**AI / ML & Frameworks**
 
-![ML](https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat-square)
-![DL](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square)
-![CV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF69B4?style=flat-square)
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,huggingface&perline=4" />
 
-**AI Systems & Architectures**
+**Web & Backend**
 
-![RAG](https://img.shields.io/badge/RAG-006400?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF4500?style=flat-square)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-1E90FF?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-4267B2?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=flat-square)
-
-**Frameworks & Libraries**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-2E2E2E?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,vscode&perline=4" />
 
 **Databases & DevOps**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker&perline=5" />
+
+</div>
+
+<div align="center">
+
+![RAG](https://img.shields.io/badge/RAG-006400?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF4500?style=for-the-badge)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-1E90FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-2E2E2E?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-4267B2?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge)
+
+</div>
 
 ---
 
-### 🔥 Featured Projects
+<div align="center">
 
-#### 🎥 [Real-Time Face Recognition Attendance System](https://github.com/KishoreR2k7)
-`React.js` `FastAPI` `OpenCV` `PostgreSQL` `Google OAuth` `JWT`
-- AI-powered attendance system using real-time facial recognition for automated tracking
-- Secure authentication, role-based access control, and live multi-camera monitoring
-- Attendance analytics, reporting dashboards, and student management modules
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=Featured%20Projects&fontSize=32&fontColor=8A2BE2&animation=twinkling" />
 
-#### 📊 [Student 360 Dashboard – AI-Powered Student Growth Platform](https://github.com/KishoreR2k7)
-`React.js` `Node.js` `SQLite` `LangGraph`
-- AI-powered platform for skill tracking, personalized learning roadmaps, and career development
-- Generative AI recommendation engine for projects, certifications, internships & resources
-- Analytics dashboards and digital portfolios to visualize student growth
+</div>
 
-#### 🧾 [AI Invoice Intelligence System](https://github.com/KishoreR2k7)
-`FastAPI` `LangChain` `VLM` `PostgreSQL`
-- AI-powered invoice processing for intelligent data extraction, validation & document understanding
-- LLM-driven automated invoice analysis generating structured insights
-- Semantic search and contextual retrieval for efficient invoice management
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 Real-Time Face Recognition Attendance System
+**`React.js` · `FastAPI` · `OpenCV` · `PostgreSQL` · `JWT`**
+
+AI-powered attendance system with real-time facial recognition, secure role-based auth, live multi-camera monitoring, and full analytics dashboards.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-8A2BE2?style=for-the-badge&logo=github)](https://github.com/KishoreR2k7)
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Student 360 Dashboard
+**`React.js` · `Node.js` · `SQLite` · `LangGraph`**
+
+GenAI-powered student growth platform with skill tracking, personalized roadmaps, and intelligent recommendations for projects & internships.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-1E90FF?style=for-the-badge&logo=github)](https://github.com/KishoreR2k7)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 AI Invoice Intelligence System
+**`FastAPI` · `LangChain` · `VLM` · `PostgreSQL`**
+
+LLM-driven invoice processing system for intelligent extraction, validation, and document understanding with semantic search over invoice data.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-00A67E?style=for-the-badge&logo=github)](https://github.com/KishoreR2k7)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 Recognition
+- Presented at **Intec Codissia Trade Fair**
+- Competitor in **2+ hackathons**
+- **NPTEL** — Internet of Things (IoT)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishoreR2k7&show_icons=true&theme=tokyonight&count_private=true" alt="Kishore's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreR2k7&theme=tokyonight" alt="Kishore's GitHub streak" height="165"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=GitHub%20Stats&fontSize=32&fontColor=1E90FF&animation=twinkling" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreR2k7&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=KishoreR2k7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=1E90FF&text_color=FFFFFF&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreR2k7&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=1E90FF&currStreakLabel=8A2BE2" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreR2k7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishoreR2k7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=8A2BE2&point=FFFFFF" width="90%"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ### 📫 Let's Connect
 
-<p align="center">
-  📧 kishorerajaji65@gmail.com &nbsp;|&nbsp; 📱 6382688378 &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/kishorer2k7">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/KishoreR2k7">GitHub</a>
-</p>
+📧 kishorerajaji65@gmail.com &nbsp;|&nbsp; 📱 6382688378 &nbsp;|&nbsp;
+<a href="https://linkedin.com/in/kishorer2k7">LinkedIn</a> &nbsp;|&nbsp;
+<a href="https://github.com/KishoreR2k7">GitHub</a>
 
-<p align="center"><i>⭐ Open to AI Engineering / Full Stack opportunities — let's build something impactful together!</i></p>
+<i>⭐ Open to AI Engineering / Full Stack opportunities — let's build something impactful together!</i>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A67E,50:1E90FF,100:8A2BE2&height=120&section=footer" />
+
+</div>
