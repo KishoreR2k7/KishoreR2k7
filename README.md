@@ -1,149 +1,190 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:1E90FF,100:00A67E&height=220&section=header&text=Kishore%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%C2%B7%20RAG%20%C2%B7%20Agentic%20Systems&descAlignY=55&descSize=18" />
+# 👋 Hi, I'm Kishore R
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Building+Generative+AI+Systems;RAG+%7C+Agentic+AI+%7C+Knowledge+Graphs;Full-Stack+%2B+AI+%3D+Real+Products" />
+### AI Engineer · Full-Stack Developer · B.Tech AI & Data Science
+
+<img src="./assets/ai-engineer-banner.png" alt="AI Engineer & Full-Stack Developer" width="100%"/>
 
 <p>
-  <a href="https://linkedin.com/in/kishorer2k7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" /></a>
-  <a href="https://github.com/KishoreR2k7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /></a>
-  <a href="mailto:kishorerajaji65@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /></a>
+  <a href="mailto:kishorerajaji65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kishorerajaji65%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/KishoreR2k7">
+    <img src="https://img.shields.io/badge/GitHub-KishoreR2k7-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/kishorer2k7">
+    <img src="https://img.shields.io/badge/LinkedIn-KishoreR2k7-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Third-year **B.Tech in Artificial Intelligence and Data Science** (2024 – 2028)
-- 🧠 I build **end-to-end AI systems** — Generative AI, LLM apps, RAG, Agentic AI, Knowledge Graphs & Computer Vision
-- 🛠️ I ship **full-stack, production-oriented** applications that pair modern AI architecture with scalable backend/frontend engineering
-- 🏆 Presented AI-powered projects at the **Intec Codissia Trade Fair** and competed in **2+ hackathons**
-- 📡 NPTEL Certified — **Internet of Things (IoT)**
-- 💼 Open to **AI Engineering** and **Full Stack Development** roles
-- 🌐 Languages: English, Tamil
+I'm a **third-year B.Tech student specializing in Artificial Intelligence and Data Science**, focused on building practical, end-to-end AI systems.
+
+My work spans **Computer Vision, OCR, Automatic Speech Recognition (ASR), LLMs, RAG, Agentic AI, embeddings, vector search, and local AI inference**, combined with full-stack application development.
+
+```text
+AI Research → Model Integration → Backend APIs → Frontend/Mobile → Deployment
+```
+
+---
+
+## 🧠 What I Build
+
+| Area | Focus |
+|---|---|
+| 👁️ Computer Vision | Face Recognition, OpenCV, visual AI systems |
+| 📄 OCR | Document/passage text extraction and processing |
+| 🎙️ ASR | Speech-to-text and reading assessment |
+| 🤖 Generative AI | LLMs, RAG, Agentic AI, local inference |
+| 🔎 Vector Search | Embeddings, FAISS, ChromaDB |
+| ⚡ Backend | FastAPI, Node.js |
+| 🌐 Frontend | React.js |
+| 📱 Mobile | Flutter |
+| 🗄️ Data | PostgreSQL, SQLite |
+| 🐳 Deployment | Docker |
+
+---
+
+## 🔥 Featured Projects
+
+### 📚 ReadSmart AI — Local AI-Powered Reading Assessment Platform
+
+**Flutter · React.js · Node.js · PaddleOCR · ASR · Local LLM · Docker**
+
+An AI-powered reading assessment platform where students submit reading recordings through a Flutter application for automated performance analysis.
+
+**Key work:**
+- Integrated **PaddleOCR** for passage processing.
+- Used **ASR** for speech transcription.
+- Performed **word-level comparison** to measure reading accuracy.
+- Built error analysis for **missed, mismatched, and incorrectly spoken words**.
+- Used a **local LLM selectively** for critical evaluation and contextual feedback.
+- Developed a **React.js + Node.js admin portal** for passages and assessments.
+- Containerized the application using **Docker**.
+
+---
+
+### 👤 Real-Time Face Recognition Attendance System
+
+**Python · FastAPI · React.js · OpenCV · PostgreSQL · FAISS · Google OAuth · JWT**
+
+A real-time AI attendance platform for automated student identification, attendance tracking, and live monitoring.
+
+**Key work:**
+- Built automated **face recognition-based attendance**.
+- Integrated **multi-camera live monitoring**.
+- Used **FAISS vector similarity search** for facial embedding matching.
+- Developed **Admin and Student dashboards**.
+- Added attendance analytics, reporting, student management, and camera monitoring.
+- Implemented authentication and access control using **Google OAuth, JWT, and RBAC**.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+</p>
+
+### AI / ML
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/OCR-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/ASR-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square"/>
+</p>
+
+### Frameworks & Systems
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+### Databases & Vector Stores
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-222222?style=flat-square"/>
+</p>
+
+### Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**Bannari Amman Institute of Technology**  
+B.Tech — Artificial Intelligence and Data Science · 2024–2028  
+**CGPA: 7.62 / 10**
+
+**KALAIMAHAL Matriculation Higher Secondary School**  
+Class XII · 83.83%  
+Class X · 86.00%
+
+---
+
+## 🏆 Achievements
+
+- 📜 **NPTEL — Internet of Things (IoT)**
+- 🧩 Participated in **2+ hackathons**, developing and presenting AI-driven solutions.
+- 🏢 Showcased AI-powered projects at the **Intec Codissia Trade Fair** and received technical feedback from industry professionals.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KishoreR2k7&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreR2k7&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+## 💡 Current Direction
+
+```text
+Building practical AI systems
+        ↓
+Computer Vision + OCR + ASR
+        ↓
+LLMs + RAG + Agentic AI
+        ↓
+Local AI Inference
+        ↓
+Full-Stack AI Applications
+```
+
+> **Build. Learn. Experiment. Deploy. Improve.**
 
 ---
 
 <div align="center">
 
-### 🧰 Tech Stack
-
-</div>
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c&perline=4" />
-
-**AI / ML & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,huggingface&perline=4" />
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,vscode&perline=4" />
-
-**Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,docker&perline=5" />
-
-</div>
-
-<div align="center">
-
-![RAG](https://img.shields.io/badge/RAG-006400?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-FF4500?style=for-the-badge)
-![Knowledge Graphs](https://img.shields.io/badge/Knowledge%20Graphs-1E90FF?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-2E2E2E?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-4267B2?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=Featured%20Projects&fontSize=32&fontColor=8A2BE2&animation=twinkling" />
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎥 Real-Time Face Recognition Attendance System
-**`React.js` · `FastAPI` · `OpenCV` · `PostgreSQL` · `JWT`**
-
-AI-powered attendance system with real-time facial recognition, secure role-based auth, live multi-camera monitoring, and full analytics dashboards.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-8A2BE2?style=for-the-badge&logo=github)](https://github.com/KishoreR2k7)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Student 360 Dashboard
-**`React.js` · `Node.js` · `SQLite` · `LangGraph`**
-
-GenAI-powered student growth platform with skill tracking, personalized roadmaps, and intelligent recommendations for projects & internships.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-1E90FF?style=for-the-badge&logo=github)](https://github.com/KishoreR2k7)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 AI Invoice Intelligence System
-**`FastAPI` · `LangChain` · `VLM` · `PostgreSQL`**
-
-LLM-driven invoice processing system for intelligent extraction, validation, and document understanding with semantic search over invoice data.
-
-[![View Repo](https://img.shields.io/badge/View-Repo-00A67E?style=for-the-badge&logo=github)](https://github.com/KishoreR2k7)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 Recognition
-- Presented at **Intec Codissia Trade Fair**
-- Competitor in **2+ hackathons**
-- **NPTEL** — Internet of Things (IoT)
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=60&section=header&text=GitHub%20Stats&fontSize=32&fontColor=1E90FF&animation=twinkling" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=KishoreR2k7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=1E90FF&text_color=FFFFFF&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishoreR2k7&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=1E90FF&currStreakLabel=8A2BE2" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishoreR2k7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishoreR2k7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=8A2BE2&point=FFFFFF" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's Connect
-
-📧 kishorerajaji65@gmail.com &nbsp;|&nbsp; 📱 6382688378 &nbsp;|&nbsp;
-<a href="https://linkedin.com/in/kishorer2k7">LinkedIn</a> &nbsp;|&nbsp;
-<a href="https://github.com/KishoreR2k7">GitHub</a>
-
-<i>⭐ Open to AI Engineering / Full Stack opportunities — let's build something impactful together!</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00A67E,50:1E90FF,100:8A2BE2&height=120&section=footer" />
+### Let's build intelligent systems that solve real problems. 🚀
 
 </div>
